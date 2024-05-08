@@ -15,12 +15,5 @@ The accuracy of our Naïve Bayes multinomial model is 98.206278 % The Precision 
 ![202918749-a4700297-d395-4b0e-99ca-060a270b4e69](https://github.com/alnxha7/SMS_Spam_classifier_using_NLP/assets/129566733/697f4f93-76e5-4b39-903a-2ef8f188caea)
 
 ## Steps
---------> Import libraries
---------> Upload dataset
---------> Create the data frame
---------> Split the data
---------> Vectorize the data
---------> Train & predict
---------> Calculate accuracy, precision, and recall
---------> calculate the confusion matrix
---------> Test the model with a new Sms/Email massage
+
+![workflow](https://github.com/alnxha7/SMS_Spam_classifier_using_NLP/assets/129566733/18ca804a-657f-4051-bc40-571c827b30c0)
